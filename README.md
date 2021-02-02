@@ -1,3 +1,1 @@
-# reactMovieRecommendation
-# reactFoodTranslator
 # reactFoodTranslator
